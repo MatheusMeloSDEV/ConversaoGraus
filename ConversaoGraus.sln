@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoGraus", "ConversaoGraus\ConversaoGraus.csproj", "{BBF5804F-8F4D-4D95-934D-927553F0118D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF5804F-8F4D-4D95-934D-927553F0118D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF5804F-8F4D-4D95-934D-927553F0118D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF5804F-8F4D-4D95-934D-927553F0118D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF5804F-8F4D-4D95-934D-927553F0118D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39516F43-D243-47FF-8AB1-E7E6DC22F8FE}
+	EndGlobalSection
+EndGlobal
